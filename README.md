@@ -1,7 +1,14 @@
-Program on C++, which allows you to find the names of employees by their date of acceptance and total salary (multiplication of average rate and basic salary), made for summer practise in 2023 by Illia Koptiev
+Program on C++, which allows you to find the names of employees by their date of acceptance and total salary (multiplication of rate and basic salary), made for summer practise in 2023 by Illia Koptiev
+Year of acceptance must be 2021 or 2022
+Month of acceptance must be February (day from 1 to 28) or August (day from 1 to 31)
+Rate must be from $300 to $900
+Basic salary must be from $300 to $900
 
 UKR: Програма мовою C++, яка дозволяє знаходити ПІБ співробітників за їх датою прийняття та загальною заробітною платою (добуток ставки та базової заробітної платні та ставки), зроблено для літньої навчальної практики 2023, автор Ілля Коптєв
-
+Рік прийняття повинен бути 2021 або 2022
+Місяць прийняття на роботу повинен бути лютий (день від 1 до 28), або серпень (день від 1 до 31)
+Ставка повинна бути від $300 до $900
+Базова заробітна плата повинна бути від $300 до $900
 
 
 Testing examples / Приклади тестування :
